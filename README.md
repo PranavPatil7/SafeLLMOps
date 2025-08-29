@@ -1,9 +1,4 @@
-# MIMIC Critical Care Readmission Prediction: An Enterprise-Scale MLOps PoC 
-
-**Important:** This project serves as a Proof-of-Concept (PoC) demonstrating MLOps practices using the MIMIC-III *Demo* dataset. The focus is on the pipeline and methodology, not the predictive performance of models trained on this limited dataset.
-## Strategic Proof-of-Concept: Predicting Hospital Readmissions and Intensive Care Outcomes
-
-This project serves as a **Strategic Proof-of-Concept (PoC)** demonstrating a robust, scalable, and enterprise-ready MLOps pipeline for critical care outcome prediction using the complex **MIMIC-III Clinical Database Demo (v1.4)**.
+# SafeLLMOps – MLOps Pipeline for Responsible LLMs                                                              
 
 **Prediction Tasks:**
 1.  **30-day hospital readmission risk** (Primary Focus)
